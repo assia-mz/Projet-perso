@@ -3,8 +3,11 @@ This repository is for all my personal projet. Most of them are not well written
 You can download the pic "fall-2023-bingo.png" if you want project ideas.
  
 
-# sommaire
-1. Tic tac toe in java (\tic-tac-toe\main.java)
+# done!
+1. Tic tac toe in java (_\tic-tac-toe\main.java_)
+
+
+# next project!
 2. Flag guessing game 
 3. word unscrambled
 4. pong game
