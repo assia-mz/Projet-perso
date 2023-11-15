@@ -6,9 +6,10 @@ You can download the pic "fall-2023-bingo.png" if you want project ideas.
 # done!
 1. Tic tac toe in java (_\tic-tac-toe\main.java_)
 
+# upcoming!
+2. Flag guessing game 
 
 # next project!
-2. Flag guessing game 
 3. word unscrambled
 4. pong game
 5. temperature converter
